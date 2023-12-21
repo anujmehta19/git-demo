@@ -1,2 +1,2 @@
-# git-demo
+# learn-git
 Learning Git
